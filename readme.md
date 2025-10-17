@@ -22,7 +22,7 @@ Features:
 
 *nfc = NoFatChaining 
 
-Requirements: Python 2.7.x only.
+Requirements: Python 3.x (Recommended: Python 3.8 or newer).
 
 ## Reference document ##
 
